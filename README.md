@@ -16,8 +16,6 @@
 <br>
 <br>
 
-## 🛸 Some technologies & tools I've used and Learned:
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,git,github,vscode,figma,xd,photoshop,illustrator&theme=dark)](https://skills.thijs.gg)
 <br>
 <br>
 
